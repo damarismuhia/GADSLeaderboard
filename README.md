@@ -1,7 +1,7 @@
 # This App developed by
 - Name : Damaris Muhia
 - country : Kenya 
-- Email : Muhiadamaris12@gmail.com 
+- Email : muhiadamaris12@gmail.com 
 - Phones Number : +254718194920
 # GADS-2020-Leaderboard
 ## Building a GADS Leaderboard Mobile Application
@@ -18,10 +18,10 @@ in the Skill IQ Leaders’ category
 # Screen shot Images 
  Splash screen   | Learener Leader Screen | Skill IQ Leader Screen
 ------------ | ------------- | ------------ |
-<img alt=" Splash screen" src="https://github.com/RefreshEnterAbel/GADS-Leaderboard/blob/master/screenshot/Screenshot_1599665636.png" /> | <img alt="Learener Leader Screen" src="https://github.com/RefreshEnterAbel/GADS-Leaderboard/blob/master/screenshot/Screenshot_1599665642.png"  /> | <img alt="Skill IQ Leader Screen" src="https://github.com/RefreshEnterAbel/GADS-Leaderboard/blob/master/screenshot/Screenshot_1599665647.png" /> |
+<img alt=" Splash screen" src="https://github.com/damarismuhia/GADS-2020-Leaderboard/blob/master/screenshot/Screenshot_1599665636.png" /> | <img alt="Learener Leader Screen" src="https://github.com/damarismuhia/GADS-2020-Leaderboard/blob/master/screenshot/Screenshot_1599665642.png"  /> | <img alt="Skill IQ Leader Screen" src="https://github.com/damarismuhia/GADS-2020-Leaderboard/blob/master/screenshot/Screenshot_1599665647.png" /> |
 
   Project submit Screen | Sure Dialog Screen | Post Fall Screen  | Post Success Screen
    ------------- | ------------ | ------------- | -------------
-<img alt="Project submit Screen" src="https://github.com/RefreshEnterAbel/GADS-Leaderboard/blob/master/screenshot/Screenshot_1599665652.png" /> |<img alt="Sure Dialog Screen" src="https://github.com/RefreshEnterAbel/GADS-Leaderboard/blob/master/screenshot/Screenshot_1599665662.png"  /> |<img alt="Post Fall Scree" src="https://github.com/RefreshEnterAbel/GADS-Leaderboard/blob/master/screenshot/Screenshot_1599665700.png"  /> |<img alt="Post Success Screen" src="https://github.com/RefreshEnterAbel/GADS-Leaderboard/blob/master/screenshot/Screenshot_1599665670.png"  /> 
+<img alt="Project submit Screen" src="https://github.com/damarismuhia/GADS-2020-Leaderboard/blob/master/screenshot/Screenshot_1599665652.png" /> |<img alt="Sure Dialog Screen" src="https://github.com/RefreshEnterAbel/GADS-Leaderboard/blob/master/screenshot/Screenshot_1599665662.png"  /> |<img alt="Post Fall Scree" src="https://github.com/RefreshEnterAbel/GADS-Leaderboard/blob/master/screenshot/Screenshot_1599665700.png"  /> |<img alt="Post Success Screen" src="https://github.com/RefreshEnterAbel/GADS-Leaderboard/blob/master/screenshot/Screenshot_1599665670.png"  /> 
 
 

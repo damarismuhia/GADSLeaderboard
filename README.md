@@ -22,6 +22,6 @@ in the Skill IQ Leaders’ category
 
   Project submit Screen | Sure Dialog Screen | Post Fall Screen  | Post Success Screen
    ------------- | ------------ | ------------- | -------------
-<img alt="Project submit Screen" src="https://github.com/damarismuhia/GADS-2020-Leaderboard/blob/master/screenshot/Screenshot_1599665652.png" /> |<img alt="Sure Dialog Screen" src="https://github.com/RefreshEnterAbel/GADS-Leaderboard/blob/master/screenshot/Screenshot_1599665662.png"  /> |<img alt="Post Fall Scree" src="https://github.com/RefreshEnterAbel/GADS-Leaderboard/blob/master/screenshot/Screenshot_1599665700.png"  /> |<img alt="Post Success Screen" src="https://github.com/RefreshEnterAbel/GADS-Leaderboard/blob/master/screenshot/Screenshot_1599665670.png"  /> 
+<img alt="Project submit Screen" src="https://github.com/damarismuhia/GADS-2020-Leaderboard/blob/master/screenshot/Screenshot_1599665652.png" /> |<img alt="Sure Dialog Screen" src="https://github.com/damarismuhia/GADS-2020-Leaderboard/blob/master/screenshot/Screenshot_1599665662.png"  /> |<img alt="Post Fall Scree" src="https://github.com/damarismuhia/GADS-2020-Leaderboard/blob/master/screenshot/Screenshot_1599665700.png"  /> |<img alt="Post Success Screen" src="https://github.com/damarismuhia/GADS-2020-Leaderboard/blob/master/screenshot/Screenshot_1599665670.png"  /> 
 
 
